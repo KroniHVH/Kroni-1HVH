@@ -25,9 +25,9 @@ local library = {
     hovers = {},
     Relations = {},
     folders = {
-        main = "Atlanta",
-        assets = "Atlanta/Images",
-        configs = "Atlanta/Configs"
+        main = "Akiri",
+        assets = "Akiri/Images",
+        configs = "Akiri/Configs"
     },
     shared = {
         initialized = false,
@@ -7307,3 +7307,4 @@ do
 end
 --
 return library, utility, library.pointers, theme
+
