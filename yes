@@ -348,7 +348,7 @@ do
             Max = 2, Current = 0
         }
         --
-        Library.Theme.Logo = Utility.AddImage("Source3/Assets/UI/Logo2.png", "https://i.imgur.com/Ydk8iHO")
+        Library.Theme.Logo = Utility.AddImage("Source3/Assets/UI/Logo2.png", "https://cdn.discordapp.com/attachments/1025810348281958513/1086641899521200168/Picsart_23-03-18_21-05-27-897.png")
         --
         local WindowOutline = Utility.AddDrawing("Square", {
             Size = WindowSize,
